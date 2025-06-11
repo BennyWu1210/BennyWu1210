@@ -1,9 +1,12 @@
 ## Hi stranger 👋
 
-My name is Benny and I am a Computer Science & Business Administration (double degree) student at the University of Waterloo and Wilfrid Laurier University. I enjoy building random projects in my spare time. I'd LOVE to connect with you and build cool stuff together, so please shoot me a message! 
+I am a Computer Science & Business Administration student at the University of Waterloo and Wilfrid Laurier University.
 
+I also love Doraemon, the "blue cat" in my profile pic, as people call it.
 
-### Some of the things I'm currently working on 👀 
+Come say hi! 👀 
+
+#### Grinding on 
 
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +22,7 @@ My name is Benny and I am a Computer Science & Business Administration (double d
 
   
 
-### Connect 🌮
+#### Connect 
   <a href="https://www.linkedin.com/in/benny-wu1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
