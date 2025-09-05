@@ -1,28 +1,15 @@
-## Hi stranger 👋
+## Hello~ 👋
 
-I am a Computer Science & Business Administration student at the University of Waterloo and Wilfrid Laurier University.
+I am a Computer Science student at the University of Waterloo. I enjoy playing basketball, making music, and building projects that challenge me to think in new ways ✨
 
-I also love Doraemon, the "blue cat" in my profile pic, as people call it.
+I also love Doraemon, the "blue cat" in my profile pic, as people call it 🐱💙
 
-Come say hi! 👀 
-
-#### Grinding on 
-
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=#FFCB33)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+Come say hi! I would love to meet more cool people like you 😉
   
 
 
-  
 
-#### Connect 
+
   <a href="https://www.linkedin.com/in/benny-wu1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
